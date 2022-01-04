@@ -1,0 +1,4 @@
+Prepared on: 2020Äê4ÔÂ27ÈÕ
+Prepared by: colin
+There are 9 records for Weight and the average weight is 71.99 kg. Maximum weight is 75 kg and minimum weight is 69 kg.
+There are 10 records for Sleep and the average sleeping hour is 6.33 hours. Maximum sleeping hour is 10 hours and minimum sleeping hour is 4 hours.
